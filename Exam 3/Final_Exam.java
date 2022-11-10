@@ -1,4 +1,4 @@
-public class Main {
+public class Final_Exam {
     public static void main(String[] args) throws Exception {
         // Print the words in their given pattern.
 
